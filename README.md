@@ -30,7 +30,7 @@ This project was developed as a part of a hackathon challenge. It is a fully wor
 
 ## 🧠 Architecture Diagram
 
-![Architecture Diagram](./assets/architecture.png)  
+![Architecture Diagram](./Architecture_Diagram/Mobile App Architecture Diagram.png)  
 *Make sure to commit and push this image to your repo inside an `assets` folder*
 
 ---

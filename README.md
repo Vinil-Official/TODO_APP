@@ -37,7 +37,6 @@ This project was developed as a part of a hackathon challenge. It is a fully wor
 
 ## 📹 App Demo – Loom Video
 
-[🎥 Watch Demo on Loom](https://www.loom.com/share/your-video-link)  
 *Record your explanation and walkthrough using Loom and paste the link above*
 
 ---
